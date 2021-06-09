@@ -1,0 +1,2 @@
+1623250256879:curl localhost:9000/api/ping
+1623250263591:sbt curl localhost:9000/api/ping

@@ -1,0 +1,7 @@
+GET /api/ping controllers.ApiController.ping
+
+# NEW
+# GET /api/users/:userId           controllers.ApiController.getUsers(userId: Int)
+# GET /api/users                   controllers.ApiController.getUsers
+
+# GET /api/songs/:songId           controllers.ApiController.getSongs(songId: Int)
